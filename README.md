@@ -6,7 +6,6 @@ gente use de verdad, y también edito video.
 - 🛠️ Ahora mismo: haciendo páginas para negocios pequeños.
 - 🌱 Aprendiendo: JavaScript, diseño responsive y cómo trabajar con clientes reales.
 - 🎬 También: edición de video.
-- 📫 Contacto: juancarlosmendiolamorales@gmail.com
 
 ## Proyectos
 
