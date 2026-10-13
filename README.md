@@ -12,7 +12,7 @@ gente use de verdad, y también edito video.
 | Proyecto | Qué es | Demo |
 |---|---|---|
 | [Catálogo Navideño Canastas MIA](https://github.com/juancarlosmendiolamorales-ui/catalogo-canastas-navidad) | Catálogo para un negocio real: pedidos por WhatsApp, precios editables desde Google Sheets y temas por festividad. | [Ver en vivo](https://juancarlosmendiolamorales-ui.github.io/catalogo-canastas-navidad/) |
-| [Canastas MIA · API y panel](https://github.com/juancarlosmendiolamorales-ui/canastas-mia-api) | Backend del catálogo: guarda pedidos en PostgreSQL y tiene un panel con login para seguirlos. | Pronto |
+| [Canastas MIA · API y panel](https://github.com/juancarlosmendiolamorales-ui/canastas-mia-api) | Backend del catálogo: guarda pedidos en PostgreSQL y tiene un panel con login para seguirlos. | [API en vivo](https://canastas-mia-api.onrender.com/canastas) |
 
 ## Herramientas
 
