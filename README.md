@@ -7,6 +7,12 @@ gente use de verdad, y también edito video.
 - 🌱 Aprendiendo: backend con Node.js y PostgreSQL, y cómo trabajar con clientes reales.
 - 🎬 También: edición de video.
 
+## Cómo trabajo
+
+Uso **IA (Claude Code) como asistente de programación**: yo defino el problema con el cliente,
+decido las funciones y las prioridades, pruebo con usuarios reales y me aseguro de entender cada
+parte del código. En cada proyecto cuento qué hice yo y qué hizo la IA.
+
 ## Proyectos
 
 | Proyecto | Qué es | Demo |
